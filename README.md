@@ -31,7 +31,7 @@
 - :boom: Puedes visitar [Mi sitio web](#).
 <br>
 
-## 🛠️ My Skills
+## 🛠️ Mis Habilidades
 
 
 <h3 align="left">Connect with me:</h3>
