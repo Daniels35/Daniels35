@@ -29,6 +29,7 @@
 - :technologist: Me encanta el Software como solución para cualquier `problema`.
 - :thinking: Actualmente estoy abierto a `nuevas oportunidades de trabajo`, este es [Mi currículum](#).
 - :boom: Puedes visitar [Mi sitio web](#).
+- 📬 Contactame: `danielstiven35@gmail.com`
 <br>
 
 ## 🛠️ Mis Habilidades
