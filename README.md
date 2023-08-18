@@ -14,7 +14,7 @@
 
 </p>
 	
-## <picture><img src="https://drive.google.com/uc?export=view&id=1UAff_ejIr0X0DbUiKq6gqS53l6mJaUxu" width="50px"></picture> Acerca de mí
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de mí
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
