@@ -18,7 +18,7 @@
 
   <div style="display: flex; align-items: flex-start; justify-content: space-between; width: 100%; max-width: 600px;">
     <ul style="list-style-type: none; padding: 0; text-align: left">
-	        <img alt="programador" src="https://drive.google.com/uc?export=download&id=1UOvb536kRKBvWBMIhI7Q-TTpgl7Jx9NT" align="right" width="250px">
+	        <img alt="programador" src="https://drive.google.com/uc?export=download&id=1UOvb536kRKBvWBMIhI7Q-TTpgl7Jx9NT" align="right" width="300px">
       <li>:school: Soy <a href="https://www.soyhenry.com/carrera-part-time-desarrollo-full-stack?gad=1&gclid=Cj0KCQjwrfymBhCTARIsADXTabkgufxcy4PD2Q1EfZxjHE184H2OZhv_4Irs8t5Ppx5_p-u33OC640EaAi4jEALw_wcB" target="_blank">Full Stack Web Developer</a> de Henry</li>
       <li>:school: Soy <a href="https://senacertificados.co/gestion-de-mercados/" target="_blank">Marketing Specialist</a> del Sena</li>
       <li>:nerd_face: Siempre Aprendo cosas nuevas.</li>
