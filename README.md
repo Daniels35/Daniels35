@@ -32,6 +32,16 @@
 
 ## 🛠️ Mis Habilidades
 
+### 🎨 Creativo
+
+### 🚀 Proactivo
+
+### 🤝 Empatía
+
+### 🚀 Liderazgo Colaborativo
+
+### 🚀 Innovación
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
