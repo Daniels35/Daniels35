@@ -1,7 +1,7 @@
 <h1 align="center">Hola, Soy Daniel Diaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=400&center=true&vCenter=true&width=335&lines=Full+Stack+Web+Developer;App+Developer;Marketing+Specialist" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=400&color=2E7AF7&center=true&vCenter=true&width=335&lines=Full+Stack+Web+Developer;App+Developer;Marketing+Specialist" alt="Typing SVG" /></a>
 </p>
 
 <p align="center"> 
