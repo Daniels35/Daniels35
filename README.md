@@ -22,7 +22,7 @@
       <li>:nerd_face: Siempre Aprendo cosas nuevas.</li>
       <li>🌱 Actualmente estoy aprendiendo <b>Inglés, React Native & Java</b></li>
       <li>:technologist: Me encanta el Software como solución para cualquier problema.</li>
-      <li>:thinking: Actualmente estoy abierto a nuevas oportunidades de trabajo, este es <a href="#">Mi currículum</a>.</li>
+      <li>:thinking: Actualmente estoy abierto a nuevas oportunidades de trabajo, este es <a href="https://drive.google.com/file/d/1UP2Cfh7jCic7QItistWS7S6S9smhe_L6/view?usp=sharing">Mi currículum</a>.</li>
       <li>:boom: Puedes visitar <a href="#">Mi sitio web</a>.</li>
       <li>📬 Contactame: <a href="mailto:danielstiven35@gmail.com">danielstiven35@gmail.com</a></li>
     </ul>
