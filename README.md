@@ -26,7 +26,7 @@
 - :nerd_face: Siempre `Aprendo cosas nuevas`.
 - 🌱 Actualmente estoy aprendiendo **English, React Native &  Java**
 - :technologist: Me encanta el Software como solución para cualquier `problema`.
-- :thinking: Actualmente estoy abierto a `nuevas oportunidades de trabajo`, este es [Mi currículum](#).
+- :thinking: Actualmente estoy abierto a `nuevas oportunidades de trabajo`, este es [Mi currículum](https://drive.google.com/file/d/1UP2Cfh7jCic7QItistWS7S6S9smhe_L6/view).
 - :boom: Puedes visitar [Mi sitio web](https://daniels35.com/).
 - 📬 Contactame: `danielstiven35@gmail.com`
 <br>
