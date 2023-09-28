@@ -1,4 +1,4 @@
-<h1 align="center">Hola , Soy Daniel Diaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola , Soy Daniel Diaz <img src="https://res.cloudinary.com/dpnj2pchu/image/upload/v1695943375/giphy_kvkclb.webp" width="35"></h1>
 
 <br></br>
 <p align="center">
