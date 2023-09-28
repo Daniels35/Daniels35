@@ -14,7 +14,7 @@
 
 </p>
 	
-## <picture><img src="https://res.cloudinary.com/dpnj2pchu/image/upload/v1695871052/htjhkkzgi0g2s208qjv0.gif" alt="hack" width="50px"></picture> Acerca de mí
+## <picture><img src="https://res.cloudinary.com/dpnj2pchu/image/upload/v1695871052/fdvqph6pqgunamso3okr.gif" alt="hack" width="50px"></picture> Acerca de mí
 
 <picture>
   <img align="right" alt="programador" src="https://drive.google.com/uc?export=download&id=1UOvb536kRKBvWBMIhI7Q-TTpgl7Jx9NT" width="250px">
