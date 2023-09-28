@@ -27,7 +27,7 @@
 - 🌱 Actualmente estoy aprendiendo **English, React Native &  Java**
 - :technologist: Me encanta el Software como solución para cualquier `problema`.
 - :thinking: Actualmente estoy abierto a `nuevas oportunidades de trabajo`, este es [Mi currículum](#).
-- :boom: Puedes visitar [Mi sitio web](#).
+- :boom: Puedes visitar [Mi sitio web](https://daniels35.com/).
 - 📬 Contactame: `danielstiven35@gmail.com`
 <br>
 
