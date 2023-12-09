@@ -24,7 +24,7 @@
 - :school: Soy `Full Stack Web Developer` de [Henry](https://www.soyhenry.com/carrera-part-time-desarrollo-full-stack?gad=1&gclid=Cj0KCQjwrfymBhCTARIsADXTabkgufxcy4PD2Q1EfZxjHE184H2OZhv_4Irs8t5Ppx5_p-u33OC640EaAi4jEALw_wcB)
 - :school: Soy `Marketing Specialist` del [Sena](https://senacertificados.co/gestion-de-mercados/) 
 - :nerd_face: Siempre `Aprendo cosas nuevas`.
-- 🌱 Actualmente estoy aprendiendo **English, React Native &  Java**
+- 🌱 Actualmente estoy aprendiendo **English & React Native**
 - :technologist: Me encanta el Software como solución para cualquier `problema`.
 - :thinking: Actualmente estoy abierto a `nuevas oportunidades de trabajo`, este es [Mi currículum](https://drive.google.com/file/d/1UP2Cfh7jCic7QItistWS7S6S9smhe_L6/view).
 - :boom: Puedes visitar [Mi sitio web](https://daniels35.com/).
