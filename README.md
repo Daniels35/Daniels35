@@ -23,7 +23,7 @@
 
 ¡Hola! Soy un **Ingeniero de Software Full Stack** con un background único en **Estrategia de Mercado**. Me especializo en el ciclo completo del producto digital: desde el código hasta el despliegue en producción.
 
-- 🔭 **Experiencia:** Desarrollo de plugins a medida para WordPress/WooCommerce y aplicaciones web escalables con **React y Node.js**.
+- 🔭 **Experiencia:** +2 años creando webs de alto impacto con **WordPress y Elementor Pro**, desarrollando plugins a medida (PHP) y aplicaciones escalables con **React y Node.js**.
 - ☁️ **DevOps e Infraestructura:** Gestión avanzada de servidores (cPanel, Hostinger, namecheap, hostgator, hosting Colombia), migraciones completas de webs en WordPress, gestión de dominios y configuración de DNS.
 - 🤖 **Enfoque Actual:** Integración de **Inteligencia Artificial** en flujos de trabajo y desarrollo de **SaaS**.
 - 💼 **Perfil:** Combino la lógica técnica con la visión comercial para entregar productos que no solo funcionan, sino que venden.
