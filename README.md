@@ -28,8 +28,8 @@
 - 🤖 **Enfoque Actual:** Integración de **Inteligencia Artificial** en flujos de trabajo y desarrollo de **SaaS**.
 - 💼 **Perfil:** Combino la lógica técnica con la visión comercial para entregar productos que no solo funcionan, sino que venden.
 - :thinking: Estoy abierto a **nuevas oportunidades y retos técnicos**.
-- 📄 Mira mi trayectoria completa en [Mi Currículum Actualizado](https://drive.google.com/file/d/1UP2Cfh7jCic7QItistWS7S6S9smhe_L6/view).
-- :boom: Visita mi portafolio: [daniels35.com](https://daniels35.com/).
+- 📄 Mira mi trayectoria completa en [Mi Currículum Actualizado](https://drive.google.com/file/d/1aZV6rSyFJnmypsyPACk70xTceMo1iV9I/view).
+- :boom: Visita mi portafolio: [daniels35.lat](https://daniels35.lat/).
 - 📬 Contáctame: `danielstiven35@gmail.com`
 
 <br>
