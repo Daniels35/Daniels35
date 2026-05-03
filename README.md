@@ -67,6 +67,17 @@
   </tr>
 </table>
 <h3 align="left">Conecta conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/danielsdiaz35" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielsdiaz35" height="30" width="40" /></a>
-</p>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" width="70">
+      <a href="https://linkedin.com/in/danielsdiaz35" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://gitlab.com/danielstiven35" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
